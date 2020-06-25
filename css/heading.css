@@ -22,5 +22,8 @@
 }
 
 header {
-    background-image: url("/assets/img/jefferson-santos-fCEJGBzAkrU-unsplash.jpg");
+    background-image: url('../assets/img/jefferson-santos-fCEJGBzAkrU-unsplash.jpg');
+    background-size: cover;
+    background-position: center;
+
 }
